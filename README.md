@@ -1,25 +1,28 @@
-## Hi, i'm Arturo! 👋
-I am a backend programmer born in Mexico with a lot of interest in web development.\
-I am currently studying at Universidad Autónoma de Querétaro
+# Hi, i'm Arturo! 👋
+I'm a software developer born in Mexico with a lot of interest in web development.\
+I'm currently studying Software Engineering at Universidad Autónoma de Querétaro
 
-#### Likings
+### Hobbies
 - I love playing and listening to music 🎼
-- I like to play video games too, especially shooters 🎮.
+- I like to play video games, especially shooters 🎮
 
-#### Skills
-I'm currently working with the following backend languages
+### Skills
+I've worked with the following backend technologies
 - Go
-- Python (Django, Flask)
-- JavaScript (Node.js)
+- Django
+- Flask
+- Node.js
 
-I can also do some frontend
-- HTML
-- CSS
-- Javascript (Vanilla, React.js)
+I've also worked with these frontend technologies:
+- CSS3
+- Tailwind
+- Bootstrap
+- React.js
 
-#### I’m currently working on my own portfolio using Svelte 🚀
+### I’m currently learning Svelte 🚀
 
-![Luis Arturo's github stats](https://github-readme-stats.vercel.app/api?username=Kingarturs&count_private=true&theme=dark&show_icons=true&hide=prs,issues)
+
+![Luis Arturo's github stats](https://github-readme-stats.vercel.app/api?username=kingarturs&show_icons=true&count_private=true&theme=merko&hide=issues,prs)
 
 <!--
 **Kingarturs/Kingarturs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
